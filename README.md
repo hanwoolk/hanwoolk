@@ -1,7 +1,6 @@
  # LINK
- ### 1st PERSONAL PROJECT <a href="#"><img src="https://img.shields.io/badge/LAS[도서관통합관리시스템]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
- ### 2nd TEAM PROJECT  <a href="#"><img src="https://img.shields.io/badge/LAS[도서관통합관리시스템]-009900?style=for-the-badge&logo=github&logoColor=white"/></a>
- ### 공부일지 <a href="#"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+ ### 1st PERSONAL PROJECT <a href="#"><img src="https://img.shields.io/badge/SoundBooker[녹음프로젝트 통합관리시스템]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
+ ### 2nd TEAM PROJECT  <a href="#"><img src="https://img.shields.io/badge/Pronect [프로젝트 매칭/관리 시스템]-009900?style=for-the-badge&logo=github&logoColor=white"/></a>
 
  # 📚 SKIL
 
