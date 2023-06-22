@@ -1,6 +1,6 @@
  # LINK
- ### 1st PERSONAL PROJECT <a href="#"><img src="https://img.shields.io/badge/SoundBooker[녹음프로젝트 통합관리시스템]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
- ### 2nd TEAM PROJECT  <a href="#"><img src="https://img.shields.io/badge/Pronect [프로젝트 매칭/관리 시스템]-009900?style=for-the-badge&logo=github&logoColor=white"/></a>
+ ### 1st PERSONAL PROJECT <a href="https://github.com/hanwoolk/SoundBooker"><img src="https://img.shields.io/badge/SoundBooker[녹음프로젝트 통합관리시스템]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
+ ### 2nd TEAM PROJECT  <a href="https://github.com/95dongju/Pronect_2ndTeamProject"><img src="https://img.shields.io/badge/Pronect [프로젝트 매칭/관리 시스템]-009900?style=for-the-badge&logo=github&logoColor=white"/></a>
 
  # 📚 SKIL
 
